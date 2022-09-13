@@ -1,0 +1,20 @@
+WHAT IS CLOUD COMPUTING?
+It is a technology that uses remote servers on the internet to store, manage, and access data online rather than local drives. 
+The data can be anything such as files, images, documents, audio, video, and more
+
+Characteristics of Cloud Computing
+1) AgilityThe cloud works in a distributed computing environment. It shares resources among users and works very fast.
+
+2) High availability and reliability
+
+The availability of servers is high and more reliable because the chances of infrastructure failure are minimum.
+
+
+3) High Scalability
+
+Cloud offers "on-demand" provisioning of resources on a large scale, without having engineers for peak loads.
+
+4) Multi-Sharing
+
+With the help of cloud computing, multiple users and applications can work more efficiently with cost reductions by sharing common infrastructure.
+
